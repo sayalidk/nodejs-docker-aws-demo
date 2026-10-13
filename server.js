@@ -15,7 +15,7 @@ const server = http.createServer((req, res) => {
       </head>
       <body>
         <h1>Hello from Node.js!</h1>
-        <p>My application is running inside Docker on AWS.</p>
+        <p>This application is running inside Docker on AWS.</p>
         <p>Project: Docker Practice</p>
       </body>
     </html>
